@@ -5,5 +5,7 @@ const (
 )
 
 func main() {
+	config := dotenv.Load("config.env")
 
+	serviceName.
 }
